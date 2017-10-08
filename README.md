@@ -1,6 +1,5 @@
 # movieTrailerWebsite
 The Movie Trailer Website - program that shows a list of movies titles, movie posters and movie trailer website. Program that is written in Phyton, generates a HTML page that shows 6 movies posters with official movie titles and linked to its movie trailers from YouTube website.
-## Getting Started
 
 ### Prerequisites
 1.Python 2.7.14 - needs to be installed and running
