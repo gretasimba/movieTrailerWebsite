@@ -3,12 +3,11 @@ The Movie Trailer Website - program that shows a list of movies titles, movie po
 
 ### Prerequisites
 1.Python 2.7.14 - needs to be installed and running
-2.Python module called fresh_tomatoes.py : clone from https://github.com/udacity/ud036_StarterCode to work on this project locally on your computer.
-3.Web browser
+2.Web browser
 
 ### Installing
-Download media.py and entertainment_center.py files on your local computer. 
-Save them in the same folder where fresh_tomatoes.py is. 
+Download media.py, entertainment_center.py, fresh_tomatoes.py files on your local computer. 
+Save them in the same folder. 
 
 ### Running
 1. Run entertainment_center.py
