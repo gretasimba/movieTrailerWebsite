@@ -1,5 +1,5 @@
-import media
-import fresh_tomatoes
+import media  #class Movie initates in media.py
+import fresh_tomatoes  #class generates fresh_tomatoes.html
 
 """ creates 6 instances of class Movies to create "my favore movies" website.
 Each instance pass 4 attributes to class Movie: movie_title as string, movie_storyline as string, poster_url as string, youtube_trailer as string.
