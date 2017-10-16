@@ -18,4 +18,4 @@ class Movie ():
 
     def show_trailer(self):
         """ Opens trailer in youtube.com in browser window"""
-    webbrowser.open(self.trailer_youtube_url)
+        webbrowser.open(self.trailer_youtube_url)
